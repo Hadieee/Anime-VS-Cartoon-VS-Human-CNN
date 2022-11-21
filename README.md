@@ -1,2 +1,2 @@
-# Football-VS-Rugby-CNN
+# Covid19-Pneumonia-CNN
 Projek Akhir Praktikum Kecerdasan Buatan
