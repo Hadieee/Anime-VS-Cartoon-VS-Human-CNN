@@ -10,12 +10,12 @@
 * Ketua Kelompok
 * Pembuat Modelling :microscope:
 
-[o] <a href="https://github.com/Hadieee" target="_blank"> Muhammad Firdaus </a> [2109106052]
+[o] <a href="https://github.com/Firdaus1223" target="_blank"> Muhammad Firdaus </a> [2109106052]
 
 * Anggota Kelompok
 * 	:sleeping_bed:
 
-[o] <a href="https://github.com/Hadieee" target="_blank"> Rafi Izdihaar </a> [2109106053]
+[o] <a href="https://github.com/rafiizdhr" target="_blank"> Rafi Izdihaar </a> [2109106053]
 
 * Anggota Kelompok
 * Pembuat Visualization :framed_picture:
