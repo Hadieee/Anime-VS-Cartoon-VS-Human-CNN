@@ -1,5 +1,5 @@
-# Anime vs Human vs Cartoon
-<a href="https://www.kaggle.com/datasets/sanyam1992000/anime-faces-vs-human-faces"> Link Dataset Anime VS Human VS Cartoon (optional included)</a>
+# Anime vs Cartoon vs Human
+<a href="https://www.kaggle.com/datasets/sanyam1992000/anime-faces-vs-human-faces"> Link Dataset Anime VS Cartoon VS Human</a>
 
 ## Perkenalkan Kami dari kelompok 3 kelas A2 2021, project ini dibuat guna untuk memenuhi tugas proyek akhir Pratikum Kecerdasan Buatan :computer::robot:	:gear:
 
