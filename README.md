@@ -19,3 +19,5 @@
 
 * Anggota Kelompok
 * Pembuat Visualization :framed_picture:
+
+#### Ukuran Gambar dari dataset ini cukup beragam. Untuk Folder Anime ukuran gambar bervariasi dari 25 x 25 hingga 186 x 186. Untuk Folder Cartoon ukuran gambar bervariasi dari 74 x 200 hingga 519 x 97. Untuk Folder Human memiliki ukuran gambar yang sama semua yaitu 1024 x 1024
