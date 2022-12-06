@@ -71,4 +71,44 @@ plt.show()
 ![Test](https://user-images.githubusercontent.com/92103598/205795029-61a81a1b-25fc-4ed4-ab3c-998858a0a160.jpg)
 ![Validation](https://user-images.githubusercontent.com/92103598/205795058-8cd01de2-01a3-4a59-b589-b8b58e2631b4.jpg)
 
+```python
+plt.figure(figsize=(10,5))
+plt.pie(
+    train_pie['Image'],
+    labels=train_pie['Class'],
+    startangle=90,
+    autopct='%.1f%%',
+    shadow=True
+)
+plt.title("Persentase jumlah data setiap kelas di Train set")
+plt.legend()
+plt.show()
+
+plt.figure(figsize=(10,5))
+plt.pie(
+    test_pie['Image'],
+    labels=test_pie['Class'],
+    startangle=90,
+    autopct='%.1f%%',
+    shadow=True
+)
+plt.title("Persentase jumlah data setiap kelas di Test set")
+plt.legend()
+plt.show()
+
+plt.figure(figsize=(10,5))
+plt.pie(
+    val_pie['Image'],
+    labels=val_pie['Class'],
+    startangle=90,
+    autopct='%.1f%%',
+    shadow=True
+)
+plt.title("Persentase jumlah data setiap kelas di Val set")
+plt.legend()
+plt.show()
+```
+![TR](https://user-images.githubusercontent.com/92103598/205846835-223b3d4d-d3a7-4cbb-9638-91fa6b98a71a.jpg)
+![TS](https://user-images.githubusercontent.com/92103598/205846873-cdb8100f-e2e5-43ca-a11e-1f46fc6aa2f8.jpg)
+![VL](https://user-images.githubusercontent.com/92103598/205846895-c8edf256-0762-491f-8703-33cae11ba1b7.jpg)
 
