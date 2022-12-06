@@ -108,7 +108,8 @@ plt.title("Persentase jumlah data setiap kelas di Val set")
 plt.legend()
 plt.show()
 ```
-![TR](https://user-images.githubusercontent.com/92103598/205846835-223b3d4d-d3a7-4cbb-9638-91fa6b98a71a.jpg)
-![TS](https://user-images.githubusercontent.com/92103598/205846873-cdb8100f-e2e5-43ca-a11e-1f46fc6aa2f8.jpg)
-![VL](https://user-images.githubusercontent.com/92103598/205846895-c8edf256-0762-491f-8703-33cae11ba1b7.jpg)
+![TR](https://user-images.githubusercontent.com/92103598/205858683-c0a7950e-a042-4d9f-8b38-5c134c8f0ebc.jpg)
+![TS](https://user-images.githubusercontent.com/92103598/205858695-fad7132c-21d5-478d-abc2-759687f72e8e.jpg)
+![VL](https://user-images.githubusercontent.com/92103598/205858711-44251bfb-20f6-49fb-8cc4-2f414732457d.jpg)
+
 
